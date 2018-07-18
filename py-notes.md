@@ -22,6 +22,12 @@ in terminal window until exit or terminal window is closed.
 
 - Downloaded Postman for API testing.
 
+### OpenSSL
+
+- https://www.sslshopper.com/article-most-common-openssl-commands.html - Common OpenSSL commands;
+includes things like conversion of certificate types, debugging, and creating new certificate
+signing requests. Helpful resource.
+
 ### Python3 packages (python3)
 
 Default
