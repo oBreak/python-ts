@@ -18,6 +18,10 @@ is a way to check if a port is open.
 - `sudo -i` - Removes requirement to type password for each sudo command 
 in terminal window until exit or terminal window is closed.
 
+### Web and Native Tools
+
+- Downloaded Postman for API testing.
+
 ### Python3 packages (python3)
 
 Default
