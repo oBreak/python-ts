@@ -17,6 +17,7 @@ is a way to check if a port is open.
 - `sudo spctl --master-enable` - Enables gatekeeper (unsigned applications can't run)
 - `sudo -i` - Removes requirement to type password for each sudo command 
 in terminal window until exit or terminal window is closed.
+- ``
 
 ### Web and Native Tools
 
@@ -55,6 +56,13 @@ Not default
 For notes around troubleshooting Python. May contain code but will mostly be documentation. 
 I have both Python 2.7 and 3.6 installed so it will be applicable to both, in theory. I will
 try to be specific, where possible.
+
+#### Git commits after Mojave upgrade
+
+https://stackoverflow.com/questions/52522565/git-is-not-working-after-macos-mojave-update-xcrun-error-invalid-active-devel
+
+
+
 
 #### SSL Errors
 
