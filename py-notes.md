@@ -169,4 +169,8 @@ killall Finder
 #### PIP
 
 - Upgraded pip to 10.0.1 -- via `python -m pip install --upgrade pip`
+- Upgraded pip to 19.2.2 -- via `pip install --upgrade pip`
 
+Installing packages:
+
+- Downloading a package `pip install <name of module>`
