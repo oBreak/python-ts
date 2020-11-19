@@ -17,7 +17,7 @@ is a way to check if a port is open.
 - `sudo spctl --master-enable` - Enables gatekeeper (unsigned applications can't run)
 - `sudo -i` - Removes requirement to type password for each sudo command 
 in terminal window until exit or terminal window is closed.
-- ``
+- 
 
 ### Web and Native Tools
 
